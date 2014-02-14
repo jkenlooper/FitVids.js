@@ -1,0 +1,23 @@
+{
+  "name": "jquery.fitvids",
+  "version": "1.0.3",
+  "main": [
+    "./jquery.fitvids.js",
+    "./fitvids.less"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.7.0"
+  },
+  "homepage": "https://github.com/jkenlooper/FitVids.js",
+  "description": "A lightweight, easy-to-use jQuery plugin for fluid width video embeds.",
+  "license": "WTFPL",
+  "private": true
+}
