@@ -2,7 +2,7 @@
   "name": "jquery.fitvids",
   "repo": "jkenlooper/FitVids.js",
   "description": "A lightweight, easy-to-use jQuery plugin for fluid width video embeds.",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "license": "WTFPL",
   "main": "jquery.fitvids.js",
   "scripts": [
